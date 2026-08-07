@@ -1,0 +1,6 @@
+{
+  "name": "Dharsan's Calculator",
+  "description": "A feature-rich, modern offline calculator with memory functions, calculation history, haptic feedback, and dynamic themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer calculator body frame -->
+    <path
+        android:fillColor="#FF6C5CE7"
+        android:pathData="M30,18h48c5.52,0 10,4.48 10,10v52c0,5.52 -4.48,10 -10,10h-48c-5.52,0 -10,-4.48 -10,-10v-52c0,-5.52 4.48,-10 10,-10z" />
+    <!-- Display Screen -->
+    <path
+        android:fillColor="#FF0F172A"
+        android:pathData="M26,24h56v18h-56z" />
+    <!-- Screen Text Lines -->
+    <path
+        android:fillColor="#FF00CEC9"
+        android:pathData="M64,30h12v4h-12zM48,36h28v3h-28z" />
+    <!-- Keypad grid buttons -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M26,48h11v8h-11z M41,48h11v8h-11z M56,48h11v8h-11z M71,48h11v8h-11z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M26,59h11v8h-11z M41,59h11v8h-11z M56,59h11v8h-11z M71,59h11v8h-11z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M26,70h11v8h-11z M41,70h11v8h-11z M56,70h11v8h-11z" />
+    <!-- Equals accent key -->
+    <path
+        android:fillColor="#FF00B894"
+        android:pathData="M71,70h11v8h-11z" />
+</vector>
